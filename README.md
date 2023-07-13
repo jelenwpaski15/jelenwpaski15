@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jelenwpaski15
-- 👀 I’m interested in automatizing my work
-- 🌱 I’m currently learning Python3
+- 👀 I’m interested in automating my work
+- 🌱 I’m currently learning Python for data analysis and workflow improvement
+- ☕💧 Coffee and water fuel it all 
 
 <!---
 jelenwpaski15/jelenwpaski15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
